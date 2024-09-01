@@ -1,0 +1,140 @@
+{
+    "name": "JavaScript_back",
+    "hide": true,
+    "topics": 3,
+    "path": "essentials/json/javascript-menus.json",
+    "menus": [
+        {
+            "name": "JavaScript as a Dynamic Language",
+            "path": "essentials/javascript/javascriptasadynamiclanguage"
+        },
+        {
+            "name": "Data Types in JavaScript",
+            "path": "essentials/javascript/datatypesinjavascript"
+        },
+        {
+            "name": "Type Checking in JavaScript",
+            "path": "essentials/javascript/typecheckinginjavascript"
+        },
+        {
+            "name": "Checking Data Types",
+            "path": "essentials/javascript/checkingdatatypes"
+        },
+        {
+            "name": "JavaScript Data Types",
+            "path": "essentials/javascript/javascriptdatatypes"
+        },
+        {
+            "name": "Understanding Undefined in JavaScript",
+            "path": "essentials/javascript/understandingundefinedinjavascript"
+        },
+        {
+            "name": "Null in JavaScript",
+            "path": "essentials/javascript/nullinjavascript"
+        },
+        {
+            "name": "Null vs Undefined",
+            "path": "essentials/javascript/nullvsundefined"
+        },
+        {
+            "name": "Hoisting in JavaScript",
+            "path": "essentials/javascript/hoistinginjavascript"
+        },
+        {
+            "name": "Hoisting and Initialization",
+            "path": "essentials/javascript/hoistingandinitialization"
+        },
+        {
+            "name": "Global Variables",
+            "path": "essentials/javascript/globalvariables"
+        },
+        {
+            "name": "Issues with Global Variables",
+            "path": "essentials/javascript/issueswithglobalvariables"
+        },
+        {
+            "name": "Variable Declaration without VAR",
+            "path": "essentials/javascript/variabledeclarationwithoutvar"
+        },
+        {
+            "name": "Use Strict Mode",
+            "path": "essentials/javascript/usestrictmode"
+        },
+        {
+            "name": "Enforcing Var Keyword",
+            "path": "essentials/javascript/enforcingvarkeyword"
+        },
+        {
+            "name": "Handling Global Variables",
+            "path": "essentials/javascript/handlingglobalvariables"
+        },
+        {
+            "name": "Avoiding Global Variables",
+            "path": "essentials/javascript/avoidingglobalvariables"
+        },
+        {
+            "name": "Understanding Closures",
+            "path": "essentials/javascript/understandingclosures"
+        },
+        {
+            "name": "Need for Closures",
+            "path": "essentials/javascript/needforclosures"
+        },
+        {
+            "name": "Understanding IIFE",
+            "path": "essentials/javascript/understandingiife"
+        },
+        {
+            "name": "Use of IIFE",
+            "path": "essentials/javascript/useofiife"
+        },
+        {
+            "name": "Name Collision in Global Scope",
+            "path": "essentials/javascript/namecollisioninglobalscope"
+        },
+        {
+            "name": "IIFE vs Normal Function",
+            "path": "essentials/javascript/iifevsnormalfunction"
+        },
+        {
+            "name": "Introduction to Design Patterns",
+            "path": "essentials/javascript/introductiontodesignpatterns"
+        },
+        {
+            "name": "Common Design Patterns",
+            "path": "essentials/javascript/commondesignpatterns"
+        },
+        {
+            "name": "Module and Revealing Module Pattern",
+            "path": "essentials/javascript/moduleandrevealingmodulepattern"
+        },
+        {
+            "name": "Creating JavaScript Objects",
+            "path": "essentials/javascript/creatingjavascriptobjects"
+        },
+        {
+            "name": "JavaScript Inheritance",
+            "path": "essentials/javascript/javascriptinheritance"
+        },
+        {
+            "name": "Prototype in JavaScript",
+            "path": "essentials/javascript/prototypeinjavascript"
+        },
+        {
+            "name": "Prototype Chaining",
+            "path": "essentials/javascript/prototypechaining"
+        },
+        {
+            "name": "Let Keyword in JavaScript",
+            "path": "essentials/javascript/letkeywordinjavascript"
+        },
+        {
+            "name": "Hoisting of Let Variables",
+            "path": "essentials/javascript/hoistingofletvariables"
+        },
+        {
+            "name": "Understanding Temporal Dead Zone",
+            "path": "essentials/javascript/understandingtemporaldeadzone"
+        }
+    ]
+}

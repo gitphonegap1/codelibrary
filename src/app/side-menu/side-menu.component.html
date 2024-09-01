@@ -1,0 +1,14 @@
+<ul class="docs-list pb-3 mb-3">
+    <ng-container *ngFor="let side of sideMenusList">
+        <li class="docs-list-item-main p-2" (click)="toggle(side)">
+            {{side.name}} 
+            <fa-icon [icon]="!side.show ? faicons.angleright : faicons.angledown" class="f-right"></fa-icon>
+        </li>
+        <ul class="docs-list ms-3 mb-2" *ngIf="side?.menus?.length > 0 && side.show">
+            <li *ngFor="let subm of side.menus" class="docs-list-item p-1" [ngClass]="{'active': subm.active}" (click)="getLink(subm)">
+                {{subm.name}}
+            </li>
+        </ul>
+
+    </ng-container>
+</ul>

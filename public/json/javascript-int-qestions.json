@@ -1,0 +1,226 @@
+[
+    {
+        "heading": "JavaScript as a Dynamic Language",
+        "question": "Why do we call JavaScript a dynamic language?"
+    },
+    {
+        "heading": "Data Types in JavaScript",
+        "question": "How does JavaScript determine data types?"
+    },
+    {
+        "heading": "Type Checking in JavaScript",
+        "question": "What is typeof in JavaScript?"
+    },
+    {
+        "heading": "Checking Data Types",
+        "question": "How to check data type in JavaScript?"
+    },
+    {
+        "heading": "JavaScript Data Types",
+        "question": "What are the different datatypes in JavaScript?"
+    },
+    {
+        "heading": "Understanding Undefined in JavaScript",
+        "question": "Explain Undefined Data types?"
+    },
+    {
+        "heading": "Null in JavaScript",
+        "question": "What is Null?"
+    },
+    {
+        "heading": "Null vs Undefined",
+        "question": "Differentiate between Null and Undefined?"
+    },
+    {
+        "heading": "Hoisting in JavaScript",
+        "question": "Explain Hoisting?"
+    },
+    {
+        "heading": "Hoisting and Initialization",
+        "question": "Are JavaScript initializations hoisted?"
+    },
+    {
+        "heading": "Global Variables",
+        "question": "What are global variables?"
+    },
+    {
+        "heading": "Issues with Global Variables",
+        "question": "What are the issues with Global variables?"
+    },
+    {
+        "heading": "Variable Declaration without VAR",
+        "question": "What happens when you declare a variable without VAR?"
+    },
+    {
+        "heading": "Use Strict Mode",
+        "question": "What is Use Strict?"
+    },
+    {
+        "heading": "Enforcing Var Keyword",
+        "question": "How to force developers to use the Var keyword?"
+    },
+    {
+        "heading": "Handling Global Variables",
+        "question": "How can we handle Global Variables?"
+    },
+    {
+        "heading": "Avoiding Global Variables",
+        "question": "How can we avoid Global variables?"
+    },
+    {
+        "heading": "Understanding Closures",
+        "question": "What are Closures?"
+    },
+    {
+        "heading": "Need for Closures",
+        "question": "Why do we need Closures?"
+    },
+    {
+        "heading": "Understanding IIFE",
+        "question": "Explain IIFE?"
+    },
+    {
+        "heading": "Use of IIFE",
+        "question": "What is the use of IIFE?"
+    },
+    {
+        "heading": "Name Collision in Global Scope",
+        "question": "What is name collision in the global scope?"
+    },
+    {
+        "heading": "IIFE vs Normal Function",
+        "question": "IIFE vs Normal Function?"
+    },
+    {
+        "heading": "Introduction to Design Patterns",
+        "question": "What are design patterns?"
+    },
+    {
+        "heading": "Common Design Patterns",
+        "question": "Which is the most used design pattern?"
+    },
+    {
+        "heading": "Module and Revealing Module Pattern",
+        "question": "What is the module pattern and revealing module pattern?"
+    },
+    {
+        "heading": "Creating JavaScript Objects",
+        "question": "What are the various ways to create JavaScript objects?"
+    },
+    {
+        "heading": "JavaScript Inheritance",
+        "question": "How can we do inheritance in JavaScript?"
+    },
+    {
+        "heading": "Prototype in JavaScript",
+        "question": "What is prototype in JavaScript?"
+    },
+    {
+        "heading": "Prototype Chaining",
+        "question": "Explain Prototype chaining?"
+    },
+    {
+        "heading": "Let Keyword in JavaScript",
+        "question": "What is the Let Keyword?"
+    },
+    {
+        "heading": "Hoisting of Let Variables",
+        "question": "Are Let variables hoisted?"
+    },
+    {
+        "heading": "Understanding Temporal Dead Zone",
+        "question": "Explain Temporal Dead Zone?"
+    },
+    {
+        "heading": "Let vs Var",
+        "question": "Let vs Var"
+    },
+    {
+        "heading": "String Concatenation and Arithmetic Puzzle",
+        "question": "String Concatenation and Arithmetic puzzle"
+    },
+    {
+        "heading": "Classes in ES6",
+        "question": "What is class in ES6?"
+    },
+    {
+        "heading": "OOP in JavaScript with Classes",
+        "question": "So with the class keyword, does it imply JavaScript is an OOP language?"
+    },
+    {
+        "heading": "Class vs Normal Function",
+        "question": "Differentiate between class and normal function?"
+    },
+    {
+        "heading": "Arrow Functions in JavaScript",
+        "question": "What is an Arrow function?"
+    },
+    {
+        "heading": "Using Arrow Functions",
+        "question": "Why do we use Arrow function?"
+    },
+    {
+        "heading": "Arrow vs Normal Function",
+        "question": "Differentiate between Arrow and Normal Function?"
+    },
+    {
+        "heading": "Arrow Functions and 'this' Keyword",
+        "question": "Does Arrow function create its own this?"
+    },
+    {
+        "heading": "Synchronous Execution in JavaScript",
+        "question": "Explain Synchronous execution?"
+    },
+    {
+        "heading": "Understanding Call Stack",
+        "question": "What is a call Stack?"
+    },
+    {
+        "heading": "Blocking Calls in JavaScript",
+        "question": "What is a blocking call?"
+    },
+    {
+        "heading": "Avoiding Blocking Calls",
+        "question": "How to avoid blocking calls?"
+    },
+    {
+        "heading": "Asynchronous Execution in JavaScript",
+        "question": "Explain Asynchronous execution?"
+    },
+    {
+        "heading": "Synchronous vs Asynchronous",
+        "question": "Synch vs Asynch?"
+    },
+    {
+        "heading": "Making Asynchronous Calls",
+        "question": "How can we do Asynch calls?"
+    },
+    {
+        "heading": "Understanding Threads",
+        "question": "What is a thread?"
+    },
+    {
+        "heading": "Multi-threading",
+        "question": "Explain Multi-threading?"
+    },
+    {
+        "heading": "JavaScript and Multi-threading",
+        "question": "Is JavaScript Multi-threaded?"
+    },
+    {
+        "heading": "Understanding setTimeout",
+        "question": "Then how does setTimeout run?"
+    },
+    {
+        "heading": "Web API/Browser API",
+        "question": "What is a WebAPI/Browser API?"
+    },
+    {
+        "heading": "Event Loop and Callback Queue",
+        "question": "What is a Event loop and callback queue?"
+    },
+    {
+        "heading": "Event Loop and Callback Code",
+        "question": "Eventloop and Callback code question?"
+    }
+]

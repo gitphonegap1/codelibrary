@@ -1,0 +1,19 @@
+<app-header></app-header>
+<div class="container-fluid p-0">
+    <div class="page-split">
+        <div class="top-menu p-0 pe-2 text-end">
+            <button class="btn btn-menu" (click)="openMenu()">
+                <fa-icon [icon]="faicons.menu"></fa-icon>
+            </button>
+        </div>
+        <div class="side-menu" [ngClass]="{'mini-screen-menu': miniMenu}">
+            <button class="btn btn-menu float-right me-2 close-mini-menu" (click)="closeMenu()" *ngIf="miniMenu">
+                <fa-icon [icon]="faicons.close"></fa-icon>
+            </button>
+            <app-side-menu (close)="closeMenu()"></app-side-menu>
+        </div>
+        <div class="page-content p-2 pb-3">
+            <router-outlet/>
+        </div>
+    </div>
+</div>

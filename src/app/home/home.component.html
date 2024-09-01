@@ -1,0 +1,10 @@
+<div class="container-fluid">
+    <div class="col-12 mb-2" *ngFor="let m of menusList">
+        <h4 class="tech-head py-1">{{m.name}}</h4>
+        <div class="col-12">
+            <span *ngFor="let sm of m.menus" class="span-link" (click)="goToLink(sm)">
+                <span class="inner-text">{{sm.name}}</span>
+            </span>
+        </div>
+    </div>
+</div>

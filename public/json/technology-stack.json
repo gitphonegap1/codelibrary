@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Angular",
+        "topics": 3,
+        "menus": [
+            {
+                "name": "Angular",
+                "path": "essentials/angular/angular"
+            },
+            {
+                "name": "AngularJs vs Angular",
+                "path": "essentials/angular/angularjsvsangular"
+            },
+            {
+                "name": "Angular Cli",
+                "path": "essentials/angular/angularcli"
+            },
+            {
+                "name": "Decorators",
+                "path": "essentials/angular/decorators"
+            },
+            {
+                "name": "Templates",
+                "path": "essentials/angular/templates"
+            },
+            {
+                "name": "Elements in Angular",
+                "path": "essentials/angular/elementsinangular"
+            },
+            {
+                "name": "NgModule",
+                "path": "essentials/angular/ngmodule"
+            },
+            {
+                "name": "Direcrtives",
+                "path": "essentials/angular/directives"
+            },
+            {
+                "name": "Custom Direcrtives",
+                "path": "essentials/angular/customdirectives"
+            },
+            {
+                "name": "Component",
+                "path": "essentials/angular/component"
+            },
+            {
+                "name": "Component Life Cycle",
+                "path": "essentials/angular/componentlifecycle"
+            },
+            {
+                "name": "Data Binding",
+                "path": "essentials/angular/databinding"
+            },
+            {
+                "name": "Architecture of Angular",
+                "path": "essentials/angular/architectureofangular"
+            },
+            {
+                "name": "SPA",
+                "path": "essentials/angular/spa"
+            },
+            {
+                "name": "Routing",
+                "path": "essentials/angular/routing"
+            },
+            {
+                "name": "Dependency Injection",
+                "path": "essentials/angular/dependencyinjection"
+            },
+            {
+                "name": "Pipes",
+                "path": "essentials/angular/pipes"
+            },
+            {
+                "name": "Custom Pipes",
+                "path": "essentials/angular/custompipes"
+            },
+            {
+                "name": "Services",
+                "path": "essentials/angular/services"
+            },
+            {
+                "name": "HTTP Calls",
+                "path": "essentials/angular/httpcalls"
+            },
+            {
+                "name": "Interceptors",
+                "path": "essentials/angular/interceptor"
+            },
+            {
+                "name": "Lazy Loading",
+                "path": "essentials/angular/lazyloading"
+            },
+            {
+                "name": "Ng Serve vs Ng Build",
+                "path": "essentials/angular/ngservevsngbuild"
+            },
+            {
+                "name": "RxJs",
+                "path": "essentials/angular/rxjs"
+            },
+            {
+                "name": "Software Development Lifecycle",
+                "path": "essentials/angular/sdlc"
+            },
+            {
+                "name": "Debounce vs Throttling",
+                "path": "essentials/angular/debouncevsthrottling"
+            }
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "menus": [
+            {
+                "name": "Async / Await", 
+                "path": "essentials/javascript/asyncawait"
+            },
+            {
+                "name": "Strict Mode", 
+                "path": "essentials/javascript/strictmode"
+            },
+            {
+                "name": "Promises", 
+                "path": "essentials/javascript/promises"
+            },
+            {
+                "name": "Promise Chaining", 
+                "path": "essentials/javascript/promisechaining"
+            },
+            {
+                "name": "Promise All", 
+                "path": "essentials/javascript/promiseall"
+            },
+            {
+                "name": "Iterators & Generators", 
+                "path": "essentials/javascript/iteratorsandgenerators"
+            },
+            {
+                "name": "ForEach vs For", 
+                "path": "essentials/javascript/foreachvsfor"
+            },
+            {
+                "name": "Javascript Map", 
+                "path": "essentials/javascript/map"
+            },
+            {
+                "name": "Javascript Set", 
+                "path": "essentials/javascript/set"
+            },
+            {
+                "name": "Constructor", 
+                "path": "essentials/javascript/constructor"
+            },
+            {
+                "name": "Is javascript Static or Dynamic Typed?", 
+                "path": "essentials/javascript/javascripttyped"
+            },
+            {
+                "name": "Currying", 
+                "path": "essentials/javascript/currying"
+            },
+            {
+                "name": "What is IIFE", 
+                "path": "essentials/javascript/iife"
+            },
+            {
+                "name": "Primitive vs Reference", 
+                "path": "essentials/javascript/primitivevsreference"
+            },
+            {
+                "name": "Array Methods", 
+                "path": "essentials/javascript/arraymethods"
+            },
+            {
+                "name": "Query Selector", 
+                "path": "essentials/javascript/queryselector"
+            },
+            {
+                "name": "Object Prototype", 
+                "path": "essentials/javascript/objectprototype"
+            },
+            {
+                "name": "Prototype Inheritance", 
+                "path": "essentials/javascript/prototypeinheritance"
+            },
+            {
+                "name": "Shallow Copy vs Deep Copy", 
+                "path": "essentials/javascript/shallowvsdeepcopy"
+            },
+            {
+                "name": "Closure", 
+                "path": "essentials/javascript/closure"
+            }
+        ]
+    }
+]
