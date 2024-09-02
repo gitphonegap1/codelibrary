@@ -106,6 +106,14 @@
             {
                 "name": "Debounce vs Throttling",
                 "path": "essentials/angular/debouncevsthrottling"
+            },
+            {
+                "name": "View Encapsulation",
+                "path": "essentials/angular/viewencapsulation"
+            },
+            {
+                "name": "Change Detection",
+                "path": "essentials/angular/changedetection"
             }
         ]
     },
