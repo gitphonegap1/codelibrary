@@ -114,6 +114,14 @@
             {
                 "name": "Change Detection",
                 "path": "essentials/angular/changedetection"
+            },
+            {
+                "name": "PWA",
+                "path": "essentials/angular/pwa"
+            },
+            {
+                "name": "Internationalization (i18n)",
+                "path": "essentials/angular/internationalization"
             }
         ]
     },
