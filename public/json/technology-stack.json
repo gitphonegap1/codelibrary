@@ -122,6 +122,30 @@
             {
                 "name": "Internationalization (i18n)",
                 "path": "essentials/angular/internationalization"
+            },
+            {
+                "name": "Developing Accessible Web Applications",
+                "path": "essentials/angular/dawa"
+            },
+            {
+                "name": "Generic Types in Angular",
+                "path": "essentials/angular/generictypes"
+            },
+            {
+                "name": "Form Builder",
+                "path": "essentials/angular/formbuilder"
+            },
+            {
+                "name": "Form Group",
+                "path": "essentials/angular/formgroup"
+            },
+            {
+                "name": "FormGroup vs FormBuilder",
+                "path": "essentials/angular/formgroupvsformbuilder"
+            },
+            {
+                "name": "Micro Frontend",
+                "path": "essentials/angular/microfrontend"
             }
         ]
     },
