@@ -10,7 +10,7 @@ Each microfrontend represents a self-contained piece of the user interface that 
 3. **Decoupling**: Microfrontends can be developed using different technologies or versions of Angular, allowing for flexibility and innovation.
 4. **Isolation**: Issues in one microfrontend are less likely to impact the entire application, making it easier to troubleshoot and maintain.
 
-#### How to create microfrontend appliocation?
+#### How to create microfrontend application?
 
 Creating an application with module using the following command.
 

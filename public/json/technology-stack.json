@@ -233,5 +233,14 @@
                 "path": "essentials/javascript/closure"
             }
         ]
+    },
+    {
+        "name": "Interview Questions",
+        "menus":[
+            {
+                "name": "Interview Questions",
+                "path": "essentials/interview/questions"
+            }
+        ]
     }
 ]
