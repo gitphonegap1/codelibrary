@@ -146,6 +146,10 @@
             {
                 "name": "Micro Frontend",
                 "path": "essentials/angular/microfrontend"
+            },
+            {
+                "name": "Authentication vs Authorization",
+                "path": "essentials/angular/authenticationvsauthorization"
             }
         ]
     },

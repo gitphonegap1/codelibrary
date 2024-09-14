@@ -112,6 +112,57 @@
    - Specifies the root or specific module for a service instance:
      - `'root'`, `'platform'`, `'any'`.
 
+   The `provideIn` property in `@Injectable` defines where the service should be provided and the scope of its instance. Here are the main options:
+
+1. **`provideIn: 'root'`**  
+
+   The service is available throughout the entire application and a singleton instance is created.
+
+   ```typescript
+   @Injectable({
+     providedIn: 'root'
+   })
+   export class MyService {}
+   ```
+   - **Scope**: Application-wide, singleton.
+   - **Use Case**: Most common, for services used in multiple components.
+
+2. **`provideIn: 'platform'`**  
+   The service is provided at the platform level and shared across multiple Angular applications running on the same platform.
+
+   ```typescript
+   @Injectable({
+     providedIn: 'platform'
+   })
+   export class MyService {}
+   ```
+   - **Scope**: Across all Angular apps on the same platform.
+   - **Use Case**: Services shared across multiple Angular apps.
+
+3. **`provideIn: 'any'`**  
+   The service is provided in every lazy-loaded module, resulting in a new instance for each module.
+
+   ```typescript
+   @Injectable({
+     providedIn: 'any'
+   })
+   export class MyService {}
+   ```
+   - **Scope**: New instance for each lazy-loaded module.
+   - **Use Case**: Services with state that need to be isolated between modules.
+
+4. **`provideIn: ModuleName`**  
+   You can also provide the service only in a specific module.
+
+   ```typescript
+   @Injectable({
+     providedIn: MyModule
+   })
+   export class MyService {}
+   ```
+   - **Scope**: Only available in the specified module.
+   - **Use Case**: Services used in a limited context (e.g., feature modules).
+
 #### 19. **Multiple Module Providers**
    - Adding a service to multiple modules creates multiple instances.
 
