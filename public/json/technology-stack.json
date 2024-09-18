@@ -243,6 +243,10 @@
             {
                 "name": "Closure", 
                 "path": "essentials/javascript/closure"
+            },
+            {
+                "name": "this",
+                "path": "essentials/javascript/this"
             }
         ]
     },
