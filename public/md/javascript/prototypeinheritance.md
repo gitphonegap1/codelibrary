@@ -4,29 +4,23 @@ Prototype inheritance is a feature in JavaScript that allows one object to inher
 
 ```javascript
 // Example of prototype inheritance
-function Animal(type) {
-    this.type = type;
+class Animal {
+  speak() {
+    console.log("Animal speaks");
+  }
 }
 
-Animal.prototype.speak = function() {
-    console.log(`${this.type} makes a sound.`);
-};
-
-function Dog(name) {
-    this.name = name;
-    Animal.call(this, 'Dog');
+class Dog extends Animal {
+  bark() {
+    console.log("Woof!");
+  }
 }
 
-Dog.prototype = Object.create(Animal.prototype);
-Dog.prototype.constructor = Dog;
-
-Dog.prototype.bark = function() {
-    console.log(`${this.name} barks.`);
-};
-
-const dog = new Dog('Buddy');
-dog.speak(); // "Dog makes a sound."
-dog.bark();  // "Buddy barks."
+const dog = new Dog();
+dog.speak(); // Animal speaks
+dog.bark();  // Woof!
 ```
 
 Here, `Dog` inherits from `Animal`, so `Dog` instances can use the `speak` method from `Animal.prototype`.
+
+<iframe width="100%" height="300" src="//jsfiddle.net/krishna1216/rsev8gb7/25/embedded/" frameborder="0" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>

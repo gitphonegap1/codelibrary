@@ -96,10 +96,6 @@
                 "path": "essentials/angular/ngservevsngbuild"
             },
             {
-                "name": "RxJs",
-                "path": "essentials/angular/rxjs"
-            },
-            {
                 "name": "Software Development Lifecycle",
                 "path": "essentials/angular/sdlc"
             },
@@ -158,6 +154,10 @@
             {
                 "name": "ViewChild",
                 "path": "essentials/angular/viewchild"
+            },
+            {
+                "name": "NgRx",
+                "path": "essentials/angular/ngrx-intro"
             }
         ]
     },
@@ -165,83 +165,79 @@
         "name": "JavaScript",
         "menus": [
             {
-                "name": "Async / Await", 
+                "name": "Async / Await",
                 "path": "essentials/javascript/asyncawait"
             },
             {
-                "name": "Strict Mode", 
+                "name": "Strict Mode",
                 "path": "essentials/javascript/strictmode"
             },
             {
-                "name": "Promises", 
+                "name": "Promises",
                 "path": "essentials/javascript/promises"
             },
             {
-                "name": "Promise Chaining", 
+                "name": "Promise Chaining",
                 "path": "essentials/javascript/promisechaining"
             },
             {
-                "name": "Promise All", 
-                "path": "essentials/javascript/promiseall"
-            },
-            {
-                "name": "Iterators & Generators", 
+                "name": "Iterators & Generators",
                 "path": "essentials/javascript/iteratorsandgenerators"
             },
             {
-                "name": "ForEach vs For", 
+                "name": "ForEach vs For",
                 "path": "essentials/javascript/foreachvsfor"
             },
             {
-                "name": "Javascript Map", 
+                "name": "Javascript Map",
                 "path": "essentials/javascript/map"
             },
             {
-                "name": "Javascript Set", 
+                "name": "Javascript Set",
                 "path": "essentials/javascript/set"
             },
             {
-                "name": "Constructor", 
+                "name": "Constructor",
                 "path": "essentials/javascript/constructor"
             },
             {
-                "name": "Is javascript Static or Dynamic Typed?", 
+                "name": "Is javascript Static or Dynamic Typed?",
                 "path": "essentials/javascript/javascripttyped"
             },
             {
-                "name": "Currying", 
+                "name": "Currying",
                 "path": "essentials/javascript/currying"
             },
             {
-                "name": "What is IIFE", 
+                "name": "What is IIFE",
                 "path": "essentials/javascript/iife"
             },
             {
-                "name": "Primitive vs Reference", 
+                "name": "Primitive vs Reference",
                 "path": "essentials/javascript/primitivevsreference"
             },
             {
-                "name": "Array Methods", 
+                "name": "Array Methods",
                 "path": "essentials/javascript/arraymethods"
             },
             {
-                "name": "Query Selector", 
+                "name": "Query Selector",
                 "path": "essentials/javascript/queryselector"
             },
             {
-                "name": "Object Prototype", 
+                "name": "Object Prototype",
                 "path": "essentials/javascript/objectprototype"
             },
             {
-                "name": "Prototype Inheritance", 
+                "name": "Prototype Inheritance",
                 "path": "essentials/javascript/prototypeinheritance"
             },
             {
-                "name": "Shallow Copy vs Deep Copy", 
+                "name": "Shallow Copy vs Deep Copy",
                 "path": "essentials/javascript/shallowvsdeepcopy"
             },
             {
-                "name": "Closure", 
+                "name": "Closure",
                 "path": "essentials/javascript/closure"
             },
             {
@@ -251,8 +247,21 @@
         ]
     },
     {
+        "name": "RxJs",
+        "menus": [
+            {
+                "name": "RxJs Intro",
+                "path": "essentials/rxjs/rxjs"
+            },
+            {
+                "name": "RxJs Subject",
+                "path": "essentials/rxjs/rxjs-subject"
+            }
+        ]
+    },
+    {
         "name": "Angular Interview Questions",
-        "menus":[
+        "menus": [
             {
                 "name": "Angular Interview Questions",
                 "path": "essentials/interview/questions"
@@ -261,7 +270,7 @@
     },
     {
         "name": "CSS Interview Questions",
-        "menus":[
+        "menus": [
             {
                 "name": "CSS Interview Questions",
                 "path": "essentials/interview/css"
